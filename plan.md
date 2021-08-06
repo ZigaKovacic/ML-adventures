@@ -26,3 +26,10 @@ Uvozi TOPv2 podatke in sledi pripravi, opisani v članku.
 Gradivo:
 * [Low-Resource Domain Adaptation for
 Compositional Task-Oriented Semantic Parsing](https://arxiv.org/pdf/2010.03546.pdf)
+
+### Nekaj člankov za prebrat
+* [NLP (almost) from scratch](https://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)
+* [Word2Vec](https://arxiv.org/abs/1301.3781)
+* [Attention is all you need](https://arxiv.org/abs/1706.03762)
+* [BERT paper](https://arxiv.org/abs/1810.04805)
+* [T5 paper](https://arxiv.org/abs/1910.10683)
