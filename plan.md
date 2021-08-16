@@ -27,6 +27,15 @@ Gradivo:
 * [Low-Resource Domain Adaptation for
 Compositional Task-Oriented Semantic Parsing](https://arxiv.org/pdf/2010.03546.pdf)
 
+### Naloga 4: Pointer networks
+Seznani se s konceptom Pointer networks oziroma pointer-generator networks, ki je relevanten
+za implementacijo članka. Ključno je, da iz člankov iz gradiva (+ drugi viri, recimo blog posti) razumeš koncept in dobiš (zelo) približno idejo, kako bi to implementiral v Pytorch.
+
+Gradivo:
+* [Pointer networks](https://arxiv.org/abs/1506.03134)
+* [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368)
+* [Don't parse, generate!](https://arxiv.org/abs/2001.11458)
+
 ### Nekaj člankov za prebrat
 * [NLP (almost) from scratch](https://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)
 * [Word2Vec](https://arxiv.org/abs/1301.3781)
