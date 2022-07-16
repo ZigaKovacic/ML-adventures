@@ -1,2 +1,4 @@
-# ML-adventures
-ML + NLP 
+# IJS e3 AI lab research intership
+
+## Recap
+
